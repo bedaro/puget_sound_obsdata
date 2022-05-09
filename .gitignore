@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.*.swp
+*~
+__pycache__/
+db.ini

@@ -1,0 +1,14 @@
+key,name,unit
+temp,Temperature,deg_c
+salt,Salinity,psu
+o2,Dissolved Oxygen,mgl
+nh4,Ammonia,umol
+no3,Nitrate,umol
+no2,Nitrite,umol
+no23,Nitrate+Nitrite,umol
+chla,Chlorophyll-A,ugl
+ph,pH,ph
+po4,"Phosphate, dissolved",umol
+orthp,Ortho-Phosphate,umol
+tp,Total Phosphorus,umol
+sioh4,"Silicate, dissolved",umol

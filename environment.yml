@@ -1,0 +1,13 @@
+name: puget_sound_obs_data
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - sqlalchemy
+  - geopandas
+  - geoalchemy2
+  - psycopg2
+  - openpyxl
+  - netcdf4
+prefix: /home/benr/miniconda3/envs/puget_sound_obs_data
