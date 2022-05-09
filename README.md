@@ -1,5 +1,7 @@
 # Puget Sound Observation Database
 
+[!Database entity relationship diagram](doc/puget_sound_obsdata.pgerd.png)
+
 A collection of Python scripts and notebooks for the creating and loading of a
 database of observation data for Puget Sound water quality. The notebooks
 process data files that are publicly available from their respective agencies,
