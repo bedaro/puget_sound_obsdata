@@ -1,4 +1,4 @@
-geopandas
+geopandas >=0.9
 sqlalchemy
 geoalchemy2
 psycopg2

@@ -1,0 +1,7 @@
+Seattle Aquarium	47.607264	-122.343790	True	False	1	SeattleAquarium
+Dockton Park	47.372829	-122.453378	True	False	2	Dockton
+Quartermaster Buoy	47.337992	-122.479236	False	True	3	QuartermasterBuoy
+Brightwater Buoy	47.778825	-122.399046	False	True	6	BrightwaterBuoy
+Alki Buoy	47.570086	-122.422033	False	True	7	AlkiBuoy
+Quartermaster Yacht Club	47.394222	-122.463500	True	False	8	QuartermasterYachtClub
+Point Williams	47.537164	-122.406117	True	False	9	PointWilliams
