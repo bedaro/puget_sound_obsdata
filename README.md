@@ -86,6 +86,8 @@ after the King County ones.
    County Marine Monitoring data. Some of this is directly downloadable from
    the program website, while the lab data is available by request from the
    marine water quality group.
+6. `load_orca_buoys.ipynb`: Extracts, transforms, and loads ORCA buoy data
+   that is downloaded as Matlab files from Northwest Environmental Moorings.
 
 ## Data Quality Control
 
@@ -94,8 +96,3 @@ suspect or flagged as inaccurate. It should be noted, however, that this is
 not intended to be a complete quality assurance process for the dataset; manual
 review may be required for your application if you intend to do more than just
 basic research with the data.
-
-## To Do
-
-* Import King County mooring data
-* Import NOAA moorings
