@@ -4,7 +4,8 @@ channels:
   - defaults
 dependencies:
   - ipykernel
-  - sqlalchemy
+  - openpyxl!=3.1.1
+  - sqlalchemy[version='<2']
   - geopandas
   - geoalchemy2
   - psycopg2
