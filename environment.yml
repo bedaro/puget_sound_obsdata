@@ -5,10 +5,11 @@ channels:
 dependencies:
   - ipykernel
   - openpyxl!=3.1.1
-  - sqlalchemy[version='<2']
+  - sqlalchemy[version='>2']
+  - pandas==2.2.2
   - geopandas
   - geoalchemy2
   - psycopg2
-  - openpyxl
   - netcdf4
+  - pyarrow
 prefix: /home/benr/miniconda3/envs/puget_sound_obs_data
